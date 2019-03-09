@@ -15,11 +15,11 @@ Fsahion MNIST is dataset with 10 different Fashion Objects with 60,000 images in
 
 Snapshot of dataset:
 
-![image]
+![image](https://github.com/yuvraj16/Fashion-MNIST-Image-Recognition/blob/master/Dataset.png)
 
 ### Performace Metrics:
 
-![image]
+![image](https://github.com/yuvraj16/Fashion-MNIST-Image-Recognition/blob/master/Performance.png)
 
 
 
