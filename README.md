@@ -17,7 +17,7 @@ Snapshot of dataset:
 
 ![image](https://github.com/yuvraj16/Fashion-MNIST-Image-Recognition/blob/master/Dataset.png)
 
-### Performace Metrics:
+### Performance Metrics:
 
 ![image](https://github.com/yuvraj16/Fashion-MNIST-Image-Recognition/blob/master/Performance.png)
 
